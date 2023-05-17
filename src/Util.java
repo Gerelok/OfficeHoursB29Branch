@@ -9,6 +9,9 @@ public class Util {
   public static void makeEasyToRead(){
     
   }
-    
+
+  public static void takeBreak(){
+
+  }
 }
 
